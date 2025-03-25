@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Dineth Sachintha**
 - 👀 I’m interested in **Python development, web development, automation, and data analysis**.
-- 🌱 I’m currently learning **advanced web scraping techniques, Django for web development, and AI-driven data processing**.
+- 🌱 I’m currently learning **Django for web development, and AI-driven data processing**.
 - 💞️ I’m looking to collaborate on **exciting Python projects, open-source contributions, and innovative automation tools**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love exploring new technologies and automating everyday tasks to make life easier!**
