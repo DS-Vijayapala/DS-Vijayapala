@@ -21,11 +21,6 @@ I’m a **Full-Stack MERN Developer** passionate about building scalable web app
 - Microservices & Clean Architecture  
 - Cloud (AWS, Vercel, Docker)  
 
-## 💞️ Collaboration  
-- Full-stack MERN apps  
-- Open-source projects  
-- SaaS & automation tools  
-
 ⭐️ *I love turning ideas into end-to-end apps 🚀*  
 
 <!---
