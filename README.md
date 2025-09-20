@@ -1,37 +1,32 @@
 # 👋 Hi, I’m Dineth Sachintha  
 
 ## 👨‍💻 About Me  
-I’m a **Full-Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React, Node.js)** with a passion for building scalable web applications, automation tools, and modern digital solutions.  
-I also enjoy working with **Python** for automation, scripting, and data analysis, giving me a versatile edge in solving problems.  
+I’m a **Full-Stack MERN Developer** passionate about building scalable web apps, automation tools, and modern digital solutions. I also use **Python** for automation and data analysis.  
 
 ## 🔥 Current Status  
-- 🚀 Actively developing **full-stack projects** with MERN  
-- ⚡ Improving backend design with **clean, industry-level Express.js APIs**  
-- 🎨 Enhancing UI/UX with **React + Tailwind CSS + Framer Motion**  
-- 🌍 Exploring cloud deployment and scaling strategies  
+- 🚀 Building **MERN stack projects**  
+- ⚡ Writing **clean Express.js APIs**  
+- 🎨 Enhancing UI/UX with **React + Tailwind CSS**  
+- 🌍 Exploring **cloud deployment & scalability**  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React, Next.js, Tailwind CSS, Redux, Framer Motion  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Tools & DevOps:** Git, GitHub, Docker, Vercel, Cloudinary, Postman  
-- **Extras:** Python (automation & data), Django (web apps), REST APIs, JWT/Auth  
+**Frontend:** React, Next.js, Tailwind CSS, Redux  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Mongoose  
+**Tools:** Git, Docker, Vercel, Cloudinary, Postman  
+**Extras:** Python, Django, REST APIs, JWT/Auth  
 
-## 🌱 Currently Learning  
-- Advanced **MERN stack patterns** for scalability  
-- **Microservices & Clean Architecture** with Node.js  
-- Cloud deployment on **AWS, Vercel, and Docker**  
+## 🌱 Learning  
+- Advanced MERN patterns  
+- Microservices & Clean Architecture  
+- Cloud (AWS, Vercel, Docker)  
 
-## 💞️ Open to Collaborate On  
-- Full-stack **MERN projects**  
-- **Open-source contributions**  
-- SaaS, automation, and innovative web platforms  
+## 💞️ Collaboration  
+- Full-stack MERN apps  
+- Open-source projects  
+- SaaS & automation tools  
 
-I love building **end-to-end apps** that go from an idea → design → production 🚀  
-
-⭐️ *Check out my repositories for projects I’m working on — feedback and collaboration are always welcome!*  
-
-
+⭐️ *I love turning ideas into end-to-end apps 🚀*  
 
 <!---
 DS-Vijayapala/DS-Vijayapala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
