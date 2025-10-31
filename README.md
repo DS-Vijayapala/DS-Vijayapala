@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#22c55e;">Dineth</span></h1>
 
 <p align="center">
-  💻 <b>Python Programmer</b> | ⚡ <b>Full-Stack Developer</b> | 🚀 <b>Problem Solver</b>
+  💻 <b>Python/TypeScript Programmer</b> | ⚡ <b>Full-Stack Developer</b> | 🚀 <b>Problem Solver</b>
 </p>
 
 ---
