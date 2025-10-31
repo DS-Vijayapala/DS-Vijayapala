@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#22c55e;">Dineth</span></h1>
 
 <p align="center">
-  💻 <b>Python/TypeScript Programmer</b> | ⚡ <b>Full-Stack Developer</b> | 🚀 <b>Problem Solver</b>
+  💻 <b>Python Programmer</b> | ⚡ <b>Full-Stack Web Developer</b> | 🚀 <b>Problem Solver</b>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 | Category | Technologies |
 |-----------|---------------|
 | 💻 **Languages** | Python, JavaScript (ES6+), TypeScript, HTML, CSS |
-| ⚙️ **Frameworks & Libraries** | React, Next.js, Express.js, Node.js |
+| ⚙️ **Frameworks & Libraries** | React, Next.js, Express.js, Node.js, Django |
 | 🧩 **Databases** | MongoDB, PostgreSQL |
 | 🎨 **UI & Styling** | Tailwind CSS, Shadcn/UI, Framer Motion |
 | ☁️ **Tools & Cloud** | Git, Vercel, Cloudinary, Docker |
