@@ -22,7 +22,7 @@
 | Category | Technologies |
 |-----------|---------------|
 | 💻 **Languages** | Python, JavaScript (ES6+), TypeScript, HTML, CSS |
-| ⚙️ **Frameworks & Libraries** | React, Next.js, Express.js, Node.js, Django |
+| ⚙️ **Frameworks & Libraries** | React, Next.js, Nest.js, Node.js, Django |
 | 🧩 **Databases** | MongoDB, PostgreSQL |
 | 🎨 **UI & Styling** | Tailwind CSS, Shadcn/UI, Framer Motion |
 | ☁️ **Tools & Cloud** | Git, Vercel, Cloudinary, Docker |
