@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🐍 Passionate about writing clean and efficient **Python**, **Java** and **TypeScript** code  
-- 🌍 Building scalable and modern web apps using **Next.js**, **Node.js**, **Express**, **Nest Js**, **Spring Boot**, **MongoDB**, **PostgreSQL**, and **Tailwind CSS**  
+- 🌍 Building scalable and modern web apps using **Next.js**, **Node.js**, **Nest Js**, **Spring Boot**, **MongoDB**, **PostgreSQL**, and **Tailwind CSS**  
 - 🧩 Exploring advanced **Algorithms & Data Structures**  
 - 🚴 Currently building: **Zipher.lk**, **Rentzee**.
 - 💡 Love turning ideas into real-world software solutions  
