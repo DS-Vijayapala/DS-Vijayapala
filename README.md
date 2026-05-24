@@ -8,10 +8,10 @@
 
 ### 🧠 About Me
 
-- 🐍 Passionate about writing clean and efficient **Python** and **JavaScript** code  
-- 🌍 Building scalable and modern web apps using **Next.js**, **Node.js**, **Express**, **MongoDB**, and **Tailwind CSS**  
+- 🐍 Passionate about writing clean and efficient **Python**, **Java** and **TypeScript** code  
+- 🌍 Building scalable and modern web apps using **Next.js**, **Node.js**, **Express**, **Nest Js**, **Spring Boot** **MongoDB**, and **Tailwind CSS**  
 - 🧩 Exploring advanced **Algorithms & Data Structures**  
-- 🚴 Currently building: **Zipher.lk**, **Rentzee**, and **Zypher-Media**  
+- 🚴 Currently building: **Zipher.lk**, **Rentzee**.
 - 💡 Love turning ideas into real-world software solutions  
 - 🌱 Always learning something new — currently mastering **Graph Algorithms & System Design**
 
@@ -21,11 +21,11 @@
 
 | Category | Technologies |
 |-----------|---------------|
-| 💻 **Languages** | Python, JavaScript (ES6+), TypeScript, HTML, CSS |
-| ⚙️ **Frameworks & Libraries** | React, Next.js, Nest.js, Node.js, Django |
+| 💻 **Languages** | Python, Java, JavaScript (ES6+), TypeScript, HTML, CSS |
+| ⚙️ **Frameworks & Libraries** | React, Next.js, Nest.js, Node.js, Django, Spring Boot |
 | 🧩 **Databases** | MongoDB, PostgreSQL |
 | 🎨 **UI & Styling** | Tailwind CSS, Shadcn/UI, Framer Motion |
-| ☁️ **Tools & Cloud** | Git, Vercel, Cloudinary, Docker |
+| ☁️ **Tools & Cloud** | Git, Vercel, Cloudinary, Docker, Railway |
 | 🧠 **CS Concepts** | Data Structures, Algorithms, OOP, Design Patterns |
 
 ---
